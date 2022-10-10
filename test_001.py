@@ -1,1 +1,8 @@
 print("nihao")
+print("nihao")
+print("nihao")
+print("nihao")
+print("nihao")
+print("nihao")
+print("nihao")
+print("nihao2")
